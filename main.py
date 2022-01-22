@@ -6,4 +6,5 @@ def main():
     value = main_calc(10, linear_function)
     print(f'value is {value}')
 
+
 main()
