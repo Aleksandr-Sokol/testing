@@ -9,7 +9,7 @@ def quadratic_function(x: float) -> float:
     """
     f(x) = x * x
     """
-    return x * x
+    return x * x + 1
 
 
 def main_calc(x: float, f) -> float:
