@@ -5,6 +5,13 @@ def linear_function(x: float) -> float:
     return x + 1
 
 
+def quadratic_function(x: float) -> float:
+    """
+    f(x) = x * x
+    """
+    return x * x
+
+
 def main_calc(x: float, f) -> float:
     """"
     :param float x : abcissa
